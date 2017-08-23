@@ -30,5 +30,3 @@ public class DebugFive3
        System.out.println(output);
    }
 }
-
-

@@ -28,5 +28,3 @@ public class DebugFive4
       JOptionPane.showMessageDialog(null, output);
    }
 }
-
-
